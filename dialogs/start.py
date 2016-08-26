@@ -33,8 +33,6 @@ START = 'Type START to continue'
 class Scenario(texture.BaseScenario):
 
     def load(self):
-        texture.tclear()
-
         texture.tprint(INFO)
         texture.tnewline()
         texture.tprint(START)
