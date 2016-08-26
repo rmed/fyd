@@ -48,4 +48,4 @@ class Scenario(texture.BaseScenario):
             return texture.loader(six.u('loader'))
 
         elif cmd == 'COPY':
-            return texture.loader(six.u('copy'))
+            return texture.loader(six.u('copyist'))
