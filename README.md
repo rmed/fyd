@@ -8,4 +8,4 @@
 
 In Windows, the `pywin32` and `pyHook` modules are also needed:
 
-    pip install pywin32 pyHook
+    pip install pypiwin32 pyHook
